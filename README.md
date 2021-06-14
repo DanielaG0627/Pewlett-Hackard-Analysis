@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-Pewlett Hackard will soon face a "silver tsunami", the baby boomer employee population is close to retirement. This analysis was made to help Pewlett Hackard determine how many roles will be vacant per department and job title as a result of the retirement wave and the possibility of a mentorship program in order to prepare for what's to come.
+Pewlett Hackard will soon face a "silver tsunami", the baby boomer employee population is close to retirement. This analysis was made to help Pewlett Hackard determine how many roles will be vacant per department and job title as a result of the retirement wave and the possibility of a mentorship program in order to prepare for this event.
 
 ## Results
 
