@@ -52,3 +52,12 @@ ORDER BY employees.emp_no;
 
 select * from mentorship_eligibility;
 
+-- Create salaries by department table
+select  title, salary
+INTO retiring_salaries
+FROM unique_titles
+LEFT JOIN salaries
+ON unique_titles.emp_no = salaries.emp_no
+
+SELECT title as "Job Title", SUM(salary) as "Salary Sum" from retiring_salaries
+GROUP BY title
